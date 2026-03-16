@@ -6,7 +6,7 @@ import random
 # ─────────────────────────────────────────
 st.set_page_config(
     page_title="MBTI 명언 🌟",
-    page_icon="🧠",
+    page_icon="✨",
     layout="centered",
 )
 
